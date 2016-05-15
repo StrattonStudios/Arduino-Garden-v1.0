@@ -6,10 +6,6 @@ Shoutout to Jeremy Blum, Educ8s.com, The Raspberry Pi Guy, go check out their yo
 The Purpose of this code is to monitor a Automated Gardening System
 Displaying all information on a 20x4 LCD, Connect Via Rpi, hosting a LAMP server.
 
-THINGS TO DO STILL:
-1. PYSerial connection datalog
-2.Lamp
-
 THINGS TO DEBUG
 1. Add delay to lcd.print on time/date?
 3. Do i need LIB rtc_ds3231.h
